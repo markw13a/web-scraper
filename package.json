@@ -1,0 +1,9 @@
+{
+	"name": "test",
+	"description": "Working out how to add dependencies in Node js.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "4.x"
+	}
+}
